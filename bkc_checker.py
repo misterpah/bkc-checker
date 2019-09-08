@@ -64,6 +64,6 @@ logging.info("Final Result :")
 logging.info("==============")
 for each in checker_output.keys():
     if checker_output[each] == True:
-        logging.info("[ {} ] {}".format(u'\u2713', each))
+        logging.info("[ {} ] {}".format('OK', each))
     else:
-        logging.info("[   ] {} ".format(each))
+        logging.info("[ -- ] {} ".format(each))
