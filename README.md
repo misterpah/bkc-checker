@@ -13,4 +13,4 @@ bkc_checker <software.bkc.json>
 ## How to get the BKC
 Currently, there is no central BKC repository. The good thing is, all BKC json have **"bkc_checker"** key inside the json. 
 
-try to search it at https://gist.github.com/search?q=bkc_checker or https://pastebin.com/search?q=bkc_checker
+try to search it at https://gist.github.com/search?q=bkc_checker
